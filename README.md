@@ -40,7 +40,9 @@ Will update this in due course
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+```
+Will update this in due course
+```
 
 ## Built With
 
@@ -56,7 +58,7 @@ Will update this in due course
 
 ## Versioning
 
-Using [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Using [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
